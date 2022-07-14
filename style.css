@@ -1,0 +1,76 @@
+header {
+    background: url(images/Rectangle\ 1.png);
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    background-image: linear-gradient (to right,
+            rgba(12, 12, 12, 0),
+            rgba(0, 0, 0, 1));
+    display: flex;
+
+}
+
+.header-text {
+    color: white;
+    justify-content: center;
+    padding-left: 250px;
+    padding-top: 100px;
+    width: 30%;
+
+}
+
+.link-button {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #EF233C;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.donation {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+}
+
+.depend-text {
+    margin: auto;
+    padding: 120px 120px 120px 0;
+    margin-bottom: 10px;
+}
+
+
+.depend-text>h1 {
+    font-weight: bold;
+    font-size: 35px;
+}
+
+
+.depend-img {
+    position: relative;
+}
+
+.icons {
+    position: absolute;
+    left: 43%;
+    top: 35%;
+}
+
+.dua {
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 50px;
+
+}
+
+.dua-text {
+    margin: auto;
+    padding: 120px 0px 120px 120px;
+    margin-bottom: 10px;
+}
